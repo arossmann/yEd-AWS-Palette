@@ -1,0 +1,2 @@
+# AWS Icon Palette for yEd
+transformed the icons from https://d1.awsstatic.com/webteam/architecture-icons/AWS-Architecture-Icons-Deck_20181009.pptx.eed6d22ae5f13406e6de695721dbe8001e73aa00.zip into yEd Palette
